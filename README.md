@@ -13,4 +13,4 @@ The dataset collect from the [Foursqaure](https://foursquare.com/about) by the f
 > Yuan et al., __Time-aware point-ofinterest recommendation__, SIGIR, 2013.
 
 ## PDFs
-We put the PDF version of notebooks in the `PDFs` folder.
+We put the PDF version of the notebooks in the `PDFs` folder.
