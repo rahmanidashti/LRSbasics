@@ -14,3 +14,6 @@ The dataset collect from the [Foursqaure](https://foursquare.com/about) by the f
 
 ## PDFs
 We put the PDF version of the notebooks in the `PDFs` folder.
+
+## Questions
+You are feel free to contact me by `rahmanidashti@gmail.com`, if you have any questions.
